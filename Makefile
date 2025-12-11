@@ -40,3 +40,4 @@ clean:
 	rm -f results/*.dat
 	rm -f results/figure/*.png
 	rm -f report/count_report.html
+	rm -rf report/count_report_files
